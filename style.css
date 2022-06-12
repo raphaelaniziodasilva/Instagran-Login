@@ -30,19 +30,21 @@ body {
     align-items: center;
     justify-content: center;
     width: 50%;
+    margin-top: 40px;
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 100%;
 }
 
 .instagram {
     display: flex;
-    align-items: center; /* horizontal */
-    justify-content: space-around; /* vertical */
+    align-items: center; 
+    justify-content: space-around; 
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
+    margin-top: 40px;
 }
 
 .group {
@@ -158,5 +160,8 @@ body {
     
     .group {
         border: 1px solid transparent;
+    }
+    .instagram-phone img {
+        height: 70%;
     }
 }
