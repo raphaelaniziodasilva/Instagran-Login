@@ -23,6 +23,7 @@ body {
     justify-content: start;
     width: 60%;
     height: 100vh;
+    margin-top: 40px;
 }
 
 .instagram-phone {
@@ -30,11 +31,11 @@ body {
     align-items: center;
     justify-content: center;
     width: 50%;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .instagram-phone img {
-    height: 100%;
+    height: 47rem
 }
 
 .instagram {
